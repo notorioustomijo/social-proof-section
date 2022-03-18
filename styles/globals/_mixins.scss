@@ -1,0 +1,6 @@
+@mixin testimonial {
+    max-width: 20vw;
+    height: 150px;
+    background-color: map-get($pry-colors, dark-mag);
+    border-radius: 5px;
+}
