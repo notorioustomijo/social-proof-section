@@ -4,3 +4,8 @@
     background-color: map-get($pry-colors, dark-mag);
     border-radius: 5px;
 }
+
+@mixin testimonial-small {
+    max-width: 70%;
+    height: 200px;
+}
