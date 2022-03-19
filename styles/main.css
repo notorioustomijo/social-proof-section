@@ -141,7 +141,7 @@ body {
       justify-content: flex-start;
       align-items: center;
       margin-bottom: 8px; }
-      .testimonials .testimonial-block1 .customer-info h3, .testimonials .testimonial-block2 .customer-info h3, .testimonials .testimonial-block3 .customer-info h3 {
+      .testimonials .testimonial-block1 .customer-info h2, .testimonials .testimonial-block2 .customer-info h2, .testimonials .testimonial-block3 .customer-info h2 {
         color: white;
         margin-bottom: 4px;
         font-weight: 900; }
